@@ -9,3 +9,7 @@
 .content-project {
     height: 205px;
 }
+
+.portfolio-section .item-inner {
+    transition: all 0.3s;
+}
