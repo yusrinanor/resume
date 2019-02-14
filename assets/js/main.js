@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    AOS.init({ once: true, duration: 700 });
 
     /* ======= Scrollspy ======= */
    $('body').scrollspy({ target: '#page-nav-wrapper', offset: 100});
